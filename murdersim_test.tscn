@@ -1,11 +1,19 @@
+<<<<<<< HEAD
 [gd_scene load_steps=115 format=4 uid="uid://bjqtq5p4cjav0"]
+=======
+[gd_scene load_steps=105 format=4 uid="uid://bjqtq5p4cjav0"]
+>>>>>>> upstream
 
 [ext_resource type="PackedScene" uid="uid://cuy0sdvytophd" path="res://assets/ccs_floor_tile.glb" id="1_t8f8c"]
 [ext_resource type="Texture2D" uid="uid://b4bfataaa3r3t" path="res://assets/fleshytexture.jpg" id="2_sr7vj"]
 [ext_resource type="Texture2D" uid="uid://b06ps01mnetfn" path="res://assets/ccs_floor_tile_Horror_Floor_13-256x256.png" id="3_fb4r4"]
 [ext_resource type="PackedScene" uid="uid://coloymuy2peq6" path="res://assets/ccs_wall_segment.glb" id="4_t58kv"]
 [ext_resource type="Texture2D" uid="uid://ddvhe7fpxwuke" path="res://assets/ccs_wall_segment_yellowwall256.png" id="5_h000o"]
+<<<<<<< HEAD
 [ext_resource type="Script" uid="uid://bkj8nvaa3a63l" path="res://player2.gd" id="6_sr7vj"]
+=======
+[ext_resource type="Script" uid="uid://bhmjohtywapbn" path="res://assets/PLAYER(ccscopy).gd" id="6_sr7vj"]
+>>>>>>> upstream
 
 [sub_resource type="StandardMaterial3D" id="StandardMaterial3D_wcjbx"]
 albedo_texture = ExtResource("2_sr7vj")
@@ -66,6 +74,7 @@ data = PackedVector3Array(-2, -0.049999997, 2, -2, 0.049999997, -2, -2, 0.049999
 [sub_resource type="ConcavePolygonShape3D" id="ConcavePolygonShape3D_alk4o"]
 data = PackedVector3Array(-2, -0.049999997, 2, -2, 0.049999997, -2, -2, 0.049999997, 2, -2, -0.049999997, 2, -2, -0.049999997, -2, -2, 0.049999997, -2, -2, -0.049999997, -2, 2, 0.049999997, -2, -2, 0.049999997, -2, -2, -0.049999997, -2, 2, -0.049999997, -2, 2, 0.049999997, -2, 2, -0.049999997, -2, 2, 0.049999997, 2, 2, 0.049999997, -2, 2, -0.049999997, -2, 2, -0.049999997, 2, 2, 0.049999997, 2, 2, -0.049999997, 2, -2, 0.049999997, 2, 2, 0.049999997, 2, 2, -0.049999997, 2, -2, -0.049999997, 2, -2, 0.049999997, 2, -2, -0.049999997, -2, 2, -0.049999997, 2, 2, -0.049999997, -2, -2, -0.049999997, -2, -2, -0.049999997, 2, 2, -0.049999997, 2, 2, 0.049999997, -2, -2, 0.049999997, 2, -2, 0.049999997, -2, 2, 0.049999997, -2, 2, 0.049999997, 2, -2, 0.049999997, 2)
 
+<<<<<<< HEAD
 [sub_resource type="StandardMaterial3D" id="StandardMaterial3D_fb4r4"]
 resource_name = "Material.001"
 cull_mode = 2
@@ -104,6 +113,8 @@ _surfaces = [{
 blend_shape_mode = 0
 shadow_mesh = SubResource("ArrayMesh_h000o")
 
+=======
+>>>>>>> upstream
 [sub_resource type="ConcavePolygonShape3D" id="ConcavePolygonShape3D_cai8x"]
 data = PackedVector3Array(-2, -0.049999997, 2, -2, 0.049999997, -2, -2, 0.049999997, 2, -2, -0.049999997, 2, -2, -0.049999997, -2, -2, 0.049999997, -2, -2, -0.049999997, -2, 2, 0.049999997, -2, -2, 0.049999997, -2, -2, -0.049999997, -2, 2, -0.049999997, -2, 2, 0.049999997, -2, 2, -0.049999997, -2, 2, 0.049999997, 2, 2, 0.049999997, -2, 2, -0.049999997, -2, 2, -0.049999997, 2, 2, 0.049999997, 2, 2, -0.049999997, 2, -2, 0.049999997, 2, 2, 0.049999997, 2, 2, -0.049999997, 2, -2, -0.049999997, 2, -2, 0.049999997, 2, -2, -0.049999997, -2, 2, -0.049999997, 2, 2, -0.049999997, -2, -2, -0.049999997, -2, -2, -0.049999997, 2, 2, -0.049999997, 2, 2, 0.049999997, -2, -2, 0.049999997, 2, -2, 0.049999997, -2, 2, 0.049999997, -2, 2, 0.049999997, 2, -2, 0.049999997, 2)
 
@@ -374,6 +385,7 @@ _surfaces = [{
 blend_shape_mode = 0
 shadow_mesh = SubResource("ArrayMesh_q1vm1")
 
+<<<<<<< HEAD
 [sub_resource type="StandardMaterial3D" id="StandardMaterial3D_sr7vj"]
 resource_name = "yellowwall"
 cull_mode = 2
@@ -413,6 +425,8 @@ _surfaces = [{
 blend_shape_mode = 0
 shadow_mesh = SubResource("ArrayMesh_fb4r4")
 
+=======
+>>>>>>> upstream
 [sub_resource type="ConcavePolygonShape3D" id="ConcavePolygonShape3D_skinh"]
 data = PackedVector3Array(-0.049999997, 0, 2, -0.049999997, 2.5, -2, -0.049999997, 2.5, 2, -0.049999997, 0, 2, -0.049999997, 0, -2, -0.049999997, 2.5, -2, -0.049999997, 0, -2, 0.049999997, 2.5, -2, -0.049999997, 2.5, -2, -0.049999997, 0, -2, 0.049999997, 0, -2, 0.049999997, 2.5, -2, 0.049999997, 0, -2, 0.049999997, 2.5, 2, 0.049999997, 2.5, -2, 0.049999997, 0, -2, 0.049999997, 0, 2, 0.049999997, 2.5, 2, 0.049999997, 0, 2, -0.049999997, 2.5, 2, 0.049999997, 2.5, 2, 0.049999997, 0, 2, -0.049999997, 0, 2, -0.049999997, 2.5, 2, -0.049999997, 0, -2, 0.049999997, 0, 2, 0.049999997, 0, -2, -0.049999997, 0, -2, -0.049999997, 0, 2, 0.049999997, 0, 2, 0.049999997, 2.5, -2, -0.049999997, 2.5, 2, -0.049999997, 2.5, -2, 0.049999997, 2.5, -2, 0.049999997, 2.5, 2, -0.049999997, 2.5, 2)
 
@@ -436,6 +450,7 @@ data = PackedVector3Array(-0.049999997, 0, 2, -0.049999997, 2.5, -2, -0.04999999
 
 [sub_resource type="CapsuleShape3D" id="CapsuleShape3D_t8f8c"]
 
+<<<<<<< HEAD
 [sub_resource type="QuadMesh" id="QuadMesh_1vm0a"]
 
 [sub_resource type="StandardMaterial3D" id="StandardMaterial3D_scb8v"]
@@ -446,6 +461,8 @@ data = PackedVector3Array(0.5, -0.5, 0, -0.5, -0.5, 0, 0.5, 0.5, 0, -0.5, -0.5, 
 
 [sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_sr7vj"]
 
+=======
+>>>>>>> upstream
 [node name="Node3D" type="Node3D"]
 
 [node name="ccs_floor_tile2" parent="." instance=ExtResource("1_t8f8c")]
@@ -514,6 +531,7 @@ surface_material_override/0 = SubResource("StandardMaterial3D_wcjbx")
 [node name="CollisionShape3D" type="CollisionShape3D" parent="ccs_floor_tile2/ccs_floor_tile6/StaticBody3D"]
 shape = SubResource("ConcavePolygonShape3D_alk4o")
 
+<<<<<<< HEAD
 [node name="ccs_floor_tile82" type="MeshInstance3D" parent="ccs_floor_tile2"]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4, 12, 0)
 mesh = SubResource("ArrayMesh_wcjbx")
@@ -580,6 +598,8 @@ surface_material_override/0 = SubResource("StandardMaterial3D_wcjbx")
 [node name="CollisionShape3D" type="CollisionShape3D" parent="ccs_floor_tile2/ccs_floor_tile87/StaticBody3D"]
 shape = SubResource("ConcavePolygonShape3D_alk4o")
 
+=======
+>>>>>>> upstream
 [node name="ccs_floor_tile7" type="MeshInstance3D" parent="ccs_floor_tile2"]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -4)
 mesh = SubResource("ArrayMesh_8vyc0")
@@ -1417,6 +1437,7 @@ surface_material_override/0 = SubResource("StandardMaterial3D_s2tvs")
 [node name="CollisionShape3D" type="CollisionShape3D" parent="ccs_wall_segment2/ccs_wall_segment/StaticBody3D"]
 shape = SubResource("ConcavePolygonShape3D_6b7o1")
 
+<<<<<<< HEAD
 [node name="ccs_wall_segment" type="MeshInstance3D" parent="ccs_wall_segment2/ccs_wall_segment" index="1"]
 transform = Transform3D(0.99979705, -0.017806446, 0.013636194, 0.014953256, 1.1998242, -0.0083368765, -0.013510495, 0.010246925, 0.99987245, 0.02844572, 2.152446, -0.021642685)
 mesh = SubResource("ArrayMesh_36sps")
@@ -1440,6 +1461,11 @@ shape = SubResource("ConcavePolygonShape3D_6b7o1")
 [node name="ccs_wall_segment2" type="MeshInstance3D" parent="ccs_wall_segment2"]
 transform = Transform3D(1, 0, 0, 0, 1.2, 0, 0, 0, 1, 1.949019, 0.04847432, 8)
 mesh = SubResource("ArrayMesh_t58kv")
+=======
+[node name="ccs_wall_segment2" type="MeshInstance3D" parent="ccs_wall_segment2"]
+transform = Transform3D(1, 0, 0, 0, 1.2, 0, 0, 0, 1, 1.949019, 0.04847432, 8)
+mesh = SubResource("ArrayMesh_36sps")
+>>>>>>> upstream
 skeleton = NodePath("")
 surface_material_override/0 = SubResource("StandardMaterial3D_s2tvs")
 
@@ -1450,7 +1476,11 @@ shape = SubResource("ConcavePolygonShape3D_skinh")
 
 [node name="ccs_wall_segment3" type="MeshInstance3D" parent="ccs_wall_segment2"]
 transform = Transform3D(-4.371139e-08, 0, -1, 0, 1.2, 0, 1, 0, -4.371139e-08, 1.949019, 0.04847432, -9)
+<<<<<<< HEAD
 mesh = SubResource("ArrayMesh_t58kv")
+=======
+mesh = SubResource("ArrayMesh_36sps")
+>>>>>>> upstream
 skeleton = NodePath("")
 surface_material_override/0 = SubResource("StandardMaterial3D_s2tvs")
 
@@ -1461,7 +1491,11 @@ shape = SubResource("ConcavePolygonShape3D_h3keb")
 
 [node name="ccs_wall_segment4" type="MeshInstance3D" parent="ccs_wall_segment2"]
 transform = Transform3D(-4.371139e-08, 0, -1, 0, 1.2, 0, 1, 0, -4.371139e-08, -2.050981, 0.04847432, -9)
+<<<<<<< HEAD
 mesh = SubResource("ArrayMesh_t58kv")
+=======
+mesh = SubResource("ArrayMesh_36sps")
+>>>>>>> upstream
 skeleton = NodePath("")
 surface_material_override/0 = SubResource("StandardMaterial3D_s2tvs")
 
@@ -1472,7 +1506,11 @@ shape = SubResource("ConcavePolygonShape3D_s8is2")
 
 [node name="ccs_wall_segment5" type="MeshInstance3D" parent="ccs_wall_segment2"]
 transform = Transform3D(-4.371139e-08, 0, -1, 0, 1.2, 0, 1, 0, -4.371139e-08, -6.050981, 0.04847432, -9)
+<<<<<<< HEAD
 mesh = SubResource("ArrayMesh_t58kv")
+=======
+mesh = SubResource("ArrayMesh_36sps")
+>>>>>>> upstream
 skeleton = NodePath("")
 surface_material_override/0 = SubResource("StandardMaterial3D_s2tvs")
 
@@ -1483,7 +1521,11 @@ shape = SubResource("ConcavePolygonShape3D_sf1o2")
 
 [node name="ccs_wall_segment6" type="MeshInstance3D" parent="ccs_wall_segment2"]
 transform = Transform3D(-4.371139e-08, 0, -1, 0, 1.2, 0, 1, 0, -4.371139e-08, -6.050981, 3.0484743, -9)
+<<<<<<< HEAD
 mesh = SubResource("ArrayMesh_t58kv")
+=======
+mesh = SubResource("ArrayMesh_36sps")
+>>>>>>> upstream
 skeleton = NodePath("")
 surface_material_override/0 = SubResource("StandardMaterial3D_s2tvs")
 
@@ -1494,7 +1536,11 @@ shape = SubResource("ConcavePolygonShape3D_aipug")
 
 [node name="ccs_wall_segment7" type="MeshInstance3D" parent="ccs_wall_segment2"]
 transform = Transform3D(-4.371139e-08, 0, -1, 0, 1.2, 0, 1, 0, -4.371139e-08, -2.050981, 3.0484743, -9)
+<<<<<<< HEAD
 mesh = SubResource("ArrayMesh_t58kv")
+=======
+mesh = SubResource("ArrayMesh_36sps")
+>>>>>>> upstream
 skeleton = NodePath("")
 surface_material_override/0 = SubResource("StandardMaterial3D_s2tvs")
 
@@ -1505,7 +1551,11 @@ shape = SubResource("ConcavePolygonShape3D_jdpac")
 
 [node name="ccs_wall_segment8" type="MeshInstance3D" parent="ccs_wall_segment2"]
 transform = Transform3D(-4.371139e-08, 0, -1, 0, 1.2, 0, 1, 0, -4.371139e-08, 1.949019, 3.0484743, -9)
+<<<<<<< HEAD
 mesh = SubResource("ArrayMesh_t58kv")
+=======
+mesh = SubResource("ArrayMesh_36sps")
+>>>>>>> upstream
 skeleton = NodePath("")
 surface_material_override/0 = SubResource("StandardMaterial3D_s2tvs")
 
@@ -1514,6 +1564,7 @@ surface_material_override/0 = SubResource("StandardMaterial3D_s2tvs")
 [node name="CollisionShape3D" type="CollisionShape3D" parent="ccs_wall_segment2/ccs_wall_segment8/StaticBody3D"]
 shape = SubResource("ConcavePolygonShape3D_vlpis")
 
+<<<<<<< HEAD
 [node name="ccs_wall_segment9" type="MeshInstance3D" parent="ccs_wall_segment2"]
 transform = Transform3D(1.3113416e-07, 0, 1, 0, 1.2, 0, -1, 0, 1.3113416e-07, -6.0509815, 5.0484743, -2.0000005)
 mesh = SubResource("ArrayMesh_t58kv")
@@ -1718,6 +1769,13 @@ shape = SubResource("ConcavePolygonShape3D_vlpis")
 [node name="Player" type="CharacterBody3D" parent="."]
 script = ExtResource("6_sr7vj")
 jump_speed = 15.0
+=======
+[node name="Player" type="CharacterBody3D" parent="."]
+script = ExtResource("6_sr7vj")
+gravity = 5
+walk_speed = 6.0
+sprint_speed = 12.0
+>>>>>>> upstream
 
 [node name="Head" type="Node3D" parent="Player"]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2, 0)
@@ -1728,6 +1786,7 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2, 0)
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.1, 0)
 shape = SubResource("CapsuleShape3D_t8f8c")
 
+<<<<<<< HEAD
 [node name="MeshInstance3D" type="MeshInstance3D" parent="."]
 transform = Transform3D(-1.09278474e-07, 0, -0.99999994, 0, 2.38, 0, 2.5, 0, -4.3711385e-08, 10, 16, 3)
 mesh = SubResource("QuadMesh_1vm0a")
@@ -1743,5 +1802,7 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 4, 9)
 amount = 10
 process_material = SubResource("ParticleProcessMaterial_sr7vj")
 
+=======
+>>>>>>> upstream
 [editable path="ccs_floor_tile2"]
 [editable path="ccs_wall_segment2"]
